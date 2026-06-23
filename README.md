@@ -56,8 +56,3 @@ Sign in and your library follows you across devices.
 ## Support & Feedback
 
 Found a bug or want to request a feature? [Open an issue](../../issues).
-
-A couple of notes on what I changed from the first draft:
-- Removed Zoom, macOS, iOS, and "store in your own Google Drive" — those aren't shipping in the current releases.
-- Removed specific tech references (Whisper, Deepgram, pyannote).
-- Added the AI notes, to-dos, chat, and materials/OCR features, which are core to what the app actually does.
